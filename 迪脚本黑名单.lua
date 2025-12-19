@@ -1,5 +1,5 @@
 local BLACKLIST = {
-    ["hnperezho647"] = true,  
+    ["78888888"] = true,  
     ["BadPlayer"] = true,   
     ["qweer44665"] = true,     
     
